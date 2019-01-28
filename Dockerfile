@@ -1,3 +1,3 @@
 FROM tomcat:8.0.20-jre8
 # Dummy text to test 
-COPY hasanproject-2.0.war /usr/local/tomcat/webapps/hasanproject-2.0.war
+COPY /var/lib/jenkins/workspace/Docker-CICD/target*.war /usr/local/tomcat/webapps/Hasan_nextGen-SBI.4.0.1.war
