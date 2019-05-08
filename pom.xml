@@ -8,7 +8,7 @@
 		<repository>
 			<id>nexus</id>
 			<name>hasan Technologies Releases Nexus Repository</name>
-			<url>http://localhost:9090/infosys/repository/hasan-technologies-release/</url>
+			<url>http://localhost:9090/infosys/repository/hasan-technologies-releases/</url>
 			</repository>
 			<snapshotRepository>
 			<id>nexus</id>
