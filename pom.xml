@@ -2,18 +2,18 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.hasan</groupId>
   <artifactId>Hasanrocking</artifactId>
-  <version>5.0</version>
+  <version>6.0</version>
   <packaging>war</packaging>
   <distributionManagement>
 		<repository>
 			<id>nexus</id>
 			<name>hasan Technologies Releases Nexus Repository</name>
-			<url>http://localhost:8082/repository/hasan-technologies-release/</url>
+			<url>http://34.73.200.42:8082/repository/hasan-technologies-release/</url>
 			</repository>
 			<snapshotRepository>
 			<id>nexus</id>
 			<name>hasan Technologies Releases Nexus Repository</name>
-			<url>http://localhost:8082/repository/hasan-technologies-snapshot/</url>
+			<url>http://34.73.200.42:8082/repository/hasan-technologies-snapshot/</url>
 			</snapshotRepository>
 			</distributionManagement>
   <build>
