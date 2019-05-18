@@ -8,12 +8,12 @@
 		<repository>
 			<id>nexus</id>
 			<name>hasan Technologies Releases Nexus Repository</name>
-			<url>http://35.244.61.150:8081/repository/hasan-technologies-release/</url>
+			<url>http://localhost:9000/repository/hasan-technologies-release/</url>
 			</repository>
 			<snapshotRepository>
 			<id>nexus</id>
 			<name>hasan Technologies Releases Nexus Repository</name>
-			<url>http://35.244.61.150:8081/repository/hasan-technologies-snapshot/</url>
+			<url>http://localhost:9000/repository/hasan-technologies-snapshot/</url>
 			</snapshotRepository>
 			</distributionManagement>
   <build>
