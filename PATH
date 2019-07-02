@@ -1,0 +1,8 @@
+export MAVEN_HOME=/opt/apache-maven-3.6.1
+export PATH=${PATH}:${MAVEN_HOME}/bin
+export CATALINE_HOME=//opt/apache-tomcat-9.0.21
+export PATH=${PATH}:${CATALINE_HOME}/bin
+
+
+
+https://www.linode.com/docs/development/java/install-java-on-ubuntu-16-04/
